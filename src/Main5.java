@@ -3,6 +3,10 @@ import bean.ListNode;
 import java.util.HashSet;
 import java.util.Set;
 
+
+/**
+ * 链表中 环的入口
+ */
 public class Main5 {
     public static void main(String[] args) {
 
